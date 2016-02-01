@@ -1,2 +1,3 @@
-# FastLinAlg.jl
-Accelerated core linear algebra in Julia
+# FastLinAlg
+
+[![Build Status](https://travis-ci.org/klho/FastLinAlg.jl.svg?branch=master)](https://travis-ci.org/klho/FastLinAlg.jl)
