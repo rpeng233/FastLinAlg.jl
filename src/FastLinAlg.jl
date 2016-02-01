@@ -11,6 +11,7 @@ export
   AbstractLinearOperator,
   LinearOperator,
   HermitianLinearOperator,
+  AbstractMatOrLinOp,
 
   # matrixlib.jl
   matrixlib,
